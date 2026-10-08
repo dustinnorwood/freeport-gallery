@@ -1,0 +1,10 @@
+{
+  "name": "The Narrows",
+  "description": "A photograph, minted as the first piece of the Freeport Gallery on STRATO helium and carried through Sepolia, BNB testnet and Robinhood Chain by Freeport: the original never leaves the freeport; the copy carries this same metadata wherever it goes.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/the-narrows.jpg",
+  "attributes": [
+    { "trait_type": "Medium", "value": "Photograph" },
+    { "trait_type": "Home chain", "value": "STRATO helium" },
+    { "trait_type": "Edition", "value": "1 of 1" }
+  ]
+}
