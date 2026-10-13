@@ -1,0 +1,16 @@
+{
+  "name": "Degen Dog",
+  "symbol": "DDOG",
+  "description": "Good boy. Does not know what a bonding curve is. Has one anyway.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/degen-dog.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Launchpad coin"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000"
+    }
+  ]
+}

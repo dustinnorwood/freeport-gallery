@@ -1,0 +1,16 @@
+{
+  "name": "Helium Cat",
+  "symbol": "HCAT",
+  "description": "Floats. Home is STRATO helium; the curve trades there, the holders are everywhere.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/helium-cat.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Launchpad coin"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000"
+    }
+  ]
+}

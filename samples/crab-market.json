@@ -1,0 +1,16 @@
+{
+  "name": "Crab Market",
+  "symbol": "CRAB",
+  "description": "Sideways forever. The window closed; the home is waiting for the last chain to report.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/crab-market.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Launchpad coin"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000"
+    }
+  ]
+}

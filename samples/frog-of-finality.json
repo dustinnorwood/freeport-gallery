@@ -1,0 +1,16 @@
+{
+  "name": "Frog of Finality",
+  "symbol": "FROG",
+  "description": "Waits for Kashima to prove the block, then leaps. Never minted before finality.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/frog-of-finality.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Launchpad coin"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000"
+    }
+  ]
+}

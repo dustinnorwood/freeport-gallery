@@ -1,0 +1,15 @@
+{
+  "name": "Customs House",
+  "description": "Where a piece is checked against its leaf. Carried to Robinhood Chain.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/zoo-3.svg",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Freeport Zoo"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 1"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Cargo Manifest",
+  "description": "An edition of 10: the sixteen words every Freeport reads.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/editions-3.svg",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Degen Editions"
+    },
+    {
+      "trait_type": "Edition size",
+      "value": 10
+    }
+  ]
+}

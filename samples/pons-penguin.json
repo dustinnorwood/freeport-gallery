@@ -1,0 +1,16 @@
+{
+  "name": "Pons Penguin",
+  "symbol": "PENG",
+  "description": "Dressed for the bridge. A batch still open: deposit from any chain and pay the same price as everyone.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/pons-penguin.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Launchpad coin"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000"
+    }
+  ]
+}

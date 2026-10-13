@@ -1,0 +1,16 @@
+{
+  "name": "Moon Moth",
+  "symbol": "MOTH",
+  "description": "Drawn to the light at the top of the curve. Graduated: the curve sold out and the pool is seeded.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/moon-moth.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Launchpad coin"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000"
+    }
+  ]
+}

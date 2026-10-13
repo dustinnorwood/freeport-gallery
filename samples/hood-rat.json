@@ -1,0 +1,16 @@
+{
+  "name": "Hood Rat",
+  "symbol": "RAT",
+  "description": "The rat that lives under Robinhood Chain and eats the fees. Launched by three communities at once; the batch price was the same for all of them.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/hood-rat.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Launchpad coin"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Lighthouse",
+  "description": "The first piece of the Freeport Zoo: a beacon for ships that carry only metadata.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/zoo-1.svg",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Freeport Zoo"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 1"
+    }
+  ]
+}

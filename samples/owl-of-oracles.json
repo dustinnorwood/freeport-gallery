@@ -1,0 +1,16 @@
+{
+  "name": "Owl of Oracles",
+  "symbol": "OWL",
+  "description": "Needs no oracle: a dollar is a dollar on every chain in the batch.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/owl-of-oracles.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Launchpad coin"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000"
+    }
+  ]
+}

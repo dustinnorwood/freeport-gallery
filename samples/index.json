@@ -1,0 +1,101 @@
+{
+  "base": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples",
+  "coins": [
+    {
+      "slug": "hood-rat",
+      "name": "Hood Rat",
+      "symbol": "RAT",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/hood-rat.json"
+    },
+    {
+      "slug": "degen-dog",
+      "name": "Degen Dog",
+      "symbol": "DDOG",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/degen-dog.json"
+    },
+    {
+      "slug": "helium-cat",
+      "name": "Helium Cat",
+      "symbol": "HCAT",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/helium-cat.json"
+    },
+    {
+      "slug": "frog-of-finality",
+      "name": "Frog of Finality",
+      "symbol": "FROG",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/frog-of-finality.json"
+    },
+    {
+      "slug": "solana-sloth",
+      "name": "Solana Sloth",
+      "symbol": "SLOTH",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/solana-sloth.json"
+    },
+    {
+      "slug": "moon-moth",
+      "name": "Moon Moth",
+      "symbol": "MOTH",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/moon-moth.json"
+    },
+    {
+      "slug": "pons-penguin",
+      "name": "Pons Penguin",
+      "symbol": "PENG",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/pons-penguin.json"
+    },
+    {
+      "slug": "crab-market",
+      "name": "Crab Market",
+      "symbol": "CRAB",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/crab-market.json"
+    },
+    {
+      "slug": "owl-of-oracles",
+      "name": "Owl of Oracles",
+      "symbol": "OWL",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/owl-of-oracles.json"
+    }
+  ],
+  "pieces": [
+    {
+      "id": 1,
+      "name": "Lighthouse",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/zoo-1.json"
+    },
+    {
+      "id": 2,
+      "name": "Harbor at Night",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/zoo-2.json"
+    },
+    {
+      "id": 3,
+      "name": "Customs House",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/zoo-3.json"
+    },
+    {
+      "id": 4,
+      "name": "Free Port",
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/zoo-4.json"
+    }
+  ],
+  "editions": [
+    {
+      "id": 1,
+      "name": "Boarding Pass",
+      "supply": 100,
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/editions-1.json"
+    },
+    {
+      "id": 2,
+      "name": "Stamp of Finality",
+      "supply": 25,
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/editions-2.json"
+    },
+    {
+      "id": 3,
+      "name": "Cargo Manifest",
+      "supply": 10,
+      "uri": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/editions-3.json"
+    }
+  ]
+}

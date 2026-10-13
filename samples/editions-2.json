@@ -1,0 +1,15 @@
+{
+  "name": "Stamp of Finality",
+  "description": "An edition of 25, stamped when Kashima proved the block.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/editions-2.svg",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Degen Editions"
+    },
+    {
+      "trait_type": "Edition size",
+      "value": 25
+    }
+  ]
+}

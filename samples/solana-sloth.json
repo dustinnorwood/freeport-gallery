@@ -1,0 +1,16 @@
+{
+  "name": "Solana Sloth",
+  "symbol": "SLOTH",
+  "description": "Four hundred milliseconds is plenty. A coin whose community deposited from devnet.",
+  "image": "https://raw.githubusercontent.com/dustinnorwood/freeport-gallery/main/samples/solana-sloth.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Launchpad coin"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000"
+    }
+  ]
+}
